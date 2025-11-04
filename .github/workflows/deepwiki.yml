@@ -1,0 +1,14 @@
+name: DeepWiki
+on:
+  push:
+    branches: [master]   # ← 改成你现在的默认分支
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: asyncfunc/deepwiki-action@v1
+        with:
+          no-readme: true     # ← 关闭 README 入口
