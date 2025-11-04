@@ -1,0 +1,18 @@
+
+u
+java:S2293Á"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü¹‚Æüÿÿÿÿ
+n	java:S135Í"YReduce the total number of break and continue statements in this loop to use at most one.(ÆÏÇg
+g
+java:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(óëÕŠùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(€ü¤õ
+Z
+java:S4719»">Replace charset name argument with StandardCharsets.ISO_8859_1(·†®Áúÿÿÿÿ
+U
+java:S4719»"9Replace charset name argument with StandardCharsets.UTF_8(·†®Áúÿÿÿÿ
+n
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(’Ù¾‹ýÿÿÿÿ
+=	java:S131Ý""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+=	java:S131Ÿ""Add a default case to this switch.(›‡ã¿øÿÿÿÿ
+ã
+java:S6541Ä"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 122 to 64, Complexity from 32 to 14, Nesting Level from 6 to 2, Number of Variables from 25 to 6.(’Ù¾‹ýÿÿÿÿ
